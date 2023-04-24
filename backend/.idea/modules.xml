@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AQI/AQI/AQI.iml" filepath="$PROJECT_DIR$/AQI/AQI/AQI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaproject.iml" filepath="$PROJECT_DIR$/.idea/javaproject.iml" />
+    </modules>
+  </component>
+</project>
