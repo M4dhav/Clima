@@ -9,7 +9,7 @@
 </td>
 </tc>
 <tc>
-<td >
+<td align = "right">
 <div id="header" align="center">
   <img src="Picture1.png"/>
 </div>
