@@ -1,19 +1,15 @@
 <table>
 <tr>
 <tc>
-<td >
 <p align = "center">
 
 ### Clima
 </p>
-</td>
 </tc>
 <tc>
-<td >
 <div id="header" align="right">
   <img src="Picture1.png"/>
 </div>
-</td>
 </tc>
 </table>
 
