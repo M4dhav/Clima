@@ -9,8 +9,8 @@
 </td>
 </tc>
 <tc>
-<td align = "right">
-<div id="header" align="center">
+<td >
+<div id="header" align="right">
   <img src="Picture1.png"/>
 </div>
 </td>
