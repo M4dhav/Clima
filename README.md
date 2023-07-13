@@ -2,10 +2,10 @@
 <div id="header" align="center">
   <img src="Picture1.png"/>
 </div>
-<p align = "center" >
+<centre>
 
 ### Clima
-</p>
+</centre>
 
 Second Semester Project built in React Native for the Frontend using Expo and Backend written in Java using IntelliJ. ngrok is used to portforward the backend. 
 
