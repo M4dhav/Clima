@@ -1,7 +1,7 @@
 <table>
 <tr>
 <tc>
-<td align = "center">
+<td >
 <p align = "center">
 
 ### Clima
@@ -9,7 +9,7 @@
 </td>
 </tc>
 <tc>
-<td align = "center">
+<td >
 <div id="header" align="center">
   <img src="Picture1.png"/>
 </div>
